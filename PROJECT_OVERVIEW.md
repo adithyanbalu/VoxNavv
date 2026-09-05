@@ -159,7 +159,7 @@ All team members work simultaneously in three 10‑hour stages, ensuring continu
 
 1. **Working browser extension** that intercepts actions in a demo web app and shows explanation + decision UI.
 2. **Data validation** that checks integrity of incoming actions before processing.
-3. **Privacy demonstration**: Judges see EXACTLY which items were used and which were deliberately ignored (e.g., "USED: 1 message • NOT USED: 46 messages, 15 files, 10 calendar events").
+3. **Privacy demonstration**: Judges see EXACTLY which items were used and which were deliberately ignored (e.g., "USED: 1 message, 1 contact • NOT USED: 46 messages, 15 files, 10 calendar events").
 4. **Dignity‑focused UI**: Non‑stigmatizing, productivity‑tool aesthetic (no medical red alarms).
 5. **Novelty clear**: First privacy‑preserving minimum‑context layer for cognitive accessibility—not a memory‑assistant cliché.
 6. **Team coordination**: All components integrated by T+20 hr, leaving 10 hr for polish, validation, and demo rehearsal.
