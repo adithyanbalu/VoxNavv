@@ -1,0 +1,20 @@
+[
+  {
+    "id": "contact_001",
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "relationship": "colleague"
+  },
+  {
+    "id": "contact_002",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@example.com",
+    "relationship": "colleague"
+  },
+  {
+    "id": "contact_003",
+    "name": "Mike Chen",
+    "email": "mike.chen@example.com",
+    "relationship": "colleague"
+  }
+]

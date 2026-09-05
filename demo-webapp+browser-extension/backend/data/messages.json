@@ -1,0 +1,26 @@
+[
+  {
+    "id": "msg_001",
+    "sender": "John Smith",
+    "recipient": "me",
+    "content": "John requested the final report on August 28",
+    "timestamp": "2026-08-28T10:30:00Z",
+    "type": "email"
+  },
+  {
+    "id": "msg_002",
+    "sender": "Sarah Johnson",
+    "recipient": "me",
+    "content": "Please review the budget proposal before Friday meeting",
+    "timestamp": "2026-09-04T14:15:00Z",
+    "type": "email"
+  },
+  {
+    "id": "msg_003",
+    "sender": "Mike Chen",
+    "recipient": "team",
+    "content": "The server maintenance is scheduled for tonight at 2 AM",
+    "timestamp": "2026-09-04T09:00:00Z",
+    "type": "slack"
+  }
+]
